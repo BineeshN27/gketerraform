@@ -1,0 +1,5 @@
+gcp_project       = "gke-learning-101984"
+gcp_region        = "us-central1"
+machine_type      = "e2-medium"
+environement      = "dev"
+business_division = "hr"
