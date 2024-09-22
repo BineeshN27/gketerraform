@@ -14,4 +14,5 @@ terraform {
 provider "google" {
   project = var.gcp_project
   region  = var.gcp_region
+  #export GOOGLE_APPLICATION_CREDENTIALS=<path to the file>
 }

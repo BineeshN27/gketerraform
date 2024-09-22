@@ -1,3 +1,6 @@
+
+gke-learning-terraform-sa.json
+gke-learning-owner-terraform-sa.json
 # Local .terraform directories
 **/.terraform/*
 
